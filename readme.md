@@ -1,5 +1,5 @@
 
-#GSO - Audio/Visual interactive virtal instrument made in Pd-extended
+#GSO - Audio/Visual interactive virtual instrument made in Pd-extended
 
 ![img](http://i64.tinypic.com/15plvk0.jpg) 
 
