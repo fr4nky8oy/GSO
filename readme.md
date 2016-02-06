@@ -9,10 +9,11 @@ GSO is an audio-visual interactive musical instrument I fully designed and creat
 
 It is designed to produce abstract audio visual compositions, inspired by Pierre Schaeffer ‘sonorous objects’ theories and experiments that led to musique concrète, which inspired artists, sound designers, composers and audio developers to think beyond the usual method of sound creation, tone manipulation and listening.
 
-To run and use the GSO you need a copy of Pd-extended. 
+To run and use the GSO you need: 
 
 - Download Pd-extended : https://puredata.info/downloads
 - Install Pd-extended 
+- Downaload this patch
 - Open GSO_openthis file
 - Patch info can be found in [pd info] subpatch
 
