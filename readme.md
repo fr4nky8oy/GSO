@@ -5,7 +5,7 @@
 
 
 
-GSO is an audio-visual interactive musical instrument I fully designed and created in Pure Data using the GEM library (Graphics Environment for Multimedia), sound synthesis and user interaction via midi controls changes (CC). 
+GSO is an audio-visual interactive virtual instrument I fully designed and created in Pure Data using the GEM library (Graphics Environment for Multimedia), sound synthesis and user interaction via midi controls changes (CC). 
 
 It is designed to produce abstract audio visual compositions, inspired by Pierre Schaeffer ‘sonorous objects’ theories and experiments that led to musique concrète, which inspired artists, sound designers, composers and audio developers to think beyond the usual method of sound creation, tone manipulation and listening.
 
