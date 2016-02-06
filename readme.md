@@ -1,7 +1,9 @@
 
-![img](http://i68.tinypic.com/64fh3b.jpg[/)
+#GSO - Audio-Visual interactive musical instrument made in Pd-extended
 
-#Readme
+![img](http://i64.tinypic.com/15plvk0.jpg) 
+
+
 
 GSO is an audio-visual interactive musical instrument I fully designed and created in Pure Data using the GEM library (Graphics Environment for Multimedia), sound synthesis and user interaction via midi controls changes (CC). 
 
