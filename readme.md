@@ -6,10 +6,10 @@ It is designed to produce abstract audio visual compositions, inspired by Pierre
 
 To run and use the GSO you need a copy of Pd-extended. 
 
-1 - Download Pd-extended : https://puredata.info/downloads
-2 - Install Pd-extended 
-3 - Open GSO_openthis file
-4 - patch info can be found in [pd info] subpatch
+- Download Pd-extended : https://puredata.info/downloads
+- Install Pd-extended 
+- Open GSO_openthis file
+- Patch info can be found in [pd info] subpatch
 
 Have fun...and share anything you may create using the GSO.
 
